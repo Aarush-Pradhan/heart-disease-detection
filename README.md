@@ -142,7 +142,7 @@ Used for improved prediction and comparison.
 | Logistic Regression |81.967213%|
 | Random Forest       |78.688525%|
 
-> Replace XX with your actual accuracy values
+
 
 ### Best Model Selected
 
